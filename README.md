@@ -1,2 +1,5 @@
-A quick hack to get mason syntax highlighting to work with modern perl.vim's
-(ships its own private perl.vim for mason).
+# Moved to GitLab
+
+This repository has moved to GitLab. This is merely an archive of the repository as it
+was before the move - all new development will happen on GitLab and will not
+be pushed to this repo. Visit the current repo [on gitlab: https://gitlab.com/zerodogg/vim-mason](https://gitlab.com/zerodogg/vim-mason)
